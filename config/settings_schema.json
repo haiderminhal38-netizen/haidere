@@ -1,0 +1,72 @@
+[
+  {
+    "name": "theme_info",
+    "theme_name": "Haideralux",
+    "theme_version": "1.0.0",
+    "theme_author": "Haideralux",
+    "theme_documentation_url": "https://github.com/haideralux/Haider",
+    "theme_support_url": "https://github.com/haideralux/Haider"
+  },
+  {
+    "name": "Colours",
+    "settings": [
+      {
+        "type": "color",
+        "id": "color_background",
+        "label": "Page background",
+        "default": "#070708"
+      },
+      {
+        "type": "color",
+        "id": "color_card",
+        "label": "Card background",
+        "default": "#0d0d0f"
+      },
+      {
+        "type": "color",
+        "id": "color_text",
+        "label": "Primary text",
+        "default": "#f3efe7"
+      },
+      {
+        "type": "color",
+        "id": "color_muted_text",
+        "label": "Muted text",
+        "default": "#a59d91"
+      },
+      {
+        "type": "color",
+        "id": "color_gold",
+        "label": "Gold accent",
+        "default": "#c9a96e"
+      },
+      {
+        "type": "color",
+        "id": "color_gold_light",
+        "label": "Gold accent (light)",
+        "default": "#e3c991"
+      },
+      {
+        "type": "color",
+        "id": "color_sale",
+        "label": "Sale badge",
+        "default": "#a93232"
+      },
+      {
+        "type": "color",
+        "id": "color_line",
+        "label": "Borders / dividers",
+        "default": "rgba(255, 255, 255, 0.08)"
+      }
+    ]
+  },
+  {
+    "name": "Typography",
+    "settings": [
+      {
+        "type": "paragraph",
+        "content": "The HAIDERALUX fonts are preserved in CSS to match the live site exactly: Georgia / Times New Roman for headings, Garamond / Baskerville / Caslon for body text and buttons, Arial for prices. If you later want to change fonts from the Theme Editor instead of CSS, tell me and I'll add font pickers here."
+      }
+    ]
+  }
+]
